@@ -59,3 +59,7 @@ button:hover{
     background-color: rgb(226, 244, 29);
     color: blue;
 }
+a{
+    text-decoration: none;
+    color: rgb(38, 4, 162);
+}
